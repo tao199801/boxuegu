@@ -173,7 +173,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public boolean onKeyDown(int keyCode, KeyEvent event) {
         if (keyCode == KeyEvent.KEYCODE_BACK && event.getAction() == KeyEvent.ACTION_DOWN){
             if ((System.currentTimeMillis()-exitTime)>2000){
-                Toast.makeText(MainActivity.this,"再按一次退出博学谷",Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this,"再按一次退出WordPress",Toast.LENGTH_SHORT).show();
                 exitTime = System.currentTimeMillis();
             }else{
                 MainActivity.this.finish();
