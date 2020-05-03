@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<infos>
+  <course id="1">
+      <imgtitle>博客（网站）简介</imgtitle>
+      <title>第1章 认识博客（网站）</title>
+      <intro>      博客，仅音译，英文名为Blogger，为Web Log的混成词。它的正式名称为网络日记；又音译为部落格或部落阁等，是使用特定的软件，在网络上出版、发表和张贴个人文章的人，或者是一种通常由个人管理、不定期张贴新的文章的网站。</intro>
+  </course>  
+   <course id="2">
+      <imgtitle>Linux系统简介</imgtitle>
+      <title>第2章 Linux系统简介</title>
+      <intro>      Linux，全称GNU/Linux，是一套免费使用和自由传播的类UNIX操作系统，其内核由林纳斯·本纳第克特·托瓦兹于1991年第一次释出，它主要受到Minix和Unix思想的启发，是一个基于POSIX和Unix的多用户、多任务、支持多线程和多CPU的操作系统。</intro>
+  </course>  
+  <course id="3">
+      <imgtitle>初识WordPress</imgtitle>
+      <title>第3章 WordPress简介</title>
+      <intro>      WordPress是一款个人博客系统，并逐步演化成一款内容管理系统软件，它是使用PHP语言和MySQL数据库开发的,用户可以在支持 PHP 和 MySQL数据库的服务器上使用自己的博客。</intro>
+  </course>  
+  <course id="4">
+      <imgtitle> 安装MySQL数据库</imgtitle>
+      <title>第4章 安装MySQL数据库</title>
+      <intro>      MySQL是一个关系型数据库管理系统，由瑞典MySQL AB 公司开发，属于 Oracle 旗下产品。MySQL 是最流行的关系型数据库管理系统之一，在 WEB 应用方面，MySQL是最好的 RDBMS (Relational Database Management System，关系数据库管理系统) 应用软件之一。</intro>
+  </course>  
+  <course id="5">
+      <imgtitle>安装Nginx</imgtitle>
+      <title>第5章 数据存储服务器</title>
+      <intro>      Nginx (engine x) 是一个高性能的HTTP和反向代理web服务器，同时也提供了IMAP/POP3/SMTP服务。Nginx是由伊戈尔·赛索耶夫为俄罗斯访问量第二的Rambler.ru站点（俄文：Рамблер）开发的，第一个公开版本0.1.0发布于2004年10月4日。</intro>
+  </course>  
+ <course id="6">
+      <imgtitle>PHP的搭建</imgtitle>
+      <title>第6章 安装PHP环境</title>
+      <intro>      PHP即“超文本预处理器”，是一种通用开源脚本语言。PHP是在服务器端执行的脚本语言，与C语言类似，是常用的网站编程语言。PHP独特的语法混合了C、Java、Perl以及 PHP 自创的语法。利于学习，使用广泛，主要适用于Web开发领域。</intro>
+  </course>  
+ 
+  <course id="7">
+      <imgtitle>云服务器的购买</imgtitle>
+      <title>第7章 云服务器的购买</title>
+      <intro>      云服务器(Elastic Compute Service, ECS)是一种简单高效、安全可靠、处理能力可弹性伸缩的计算服务。其管理方式比物理服务器更简单高效。用户无需提前购买硬件，即可迅速创建或释放任意多台云服务器。</intro>
+  </course>  
+  <course id="8">
+      <imgtitle>域名购买及备案</imgtitle>
+      <title>第8章 域名购买及备案</title>
+      <intro>      域名（英语：Domain Name），又称网域，是由一串用点分隔的名字组成的Internet上某一台计算机或计算机组的名称，用于在数据传输时对计算机的定位标识（有时也指地理位置）。</intro>
+  </course>  
+  <course id="9">
+      <imgtitle>安装WordPress</imgtitle>
+      <title>第9章 安装WordPress</title>
+      <intro>      丰富的插件和模板是WordPress非常流行的一个特性。WordPress插件数据库中有超过18000个插件，包括SEO、控件等等。个人可以根据它的核心程序提供的规则自己开发模板和插件。这些插件可以快速地把你的博客改变成cms、forums、门户等各种类型的站点。</intro>
+  </course>  
+  <course id="10">
+      <imgtitle>WordPress简单设置</imgtitle>
+      <title>第10章 WordPress简单设置</title>
+      <intro>      WordPress 功能强大、扩展性强，这主要得益于其插件众多，易于扩充功能，基本上一个完整网站该有的功能，通过其第三方插件都能实现所有功能；</intro>
+  </course>  
+</infos>

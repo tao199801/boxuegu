@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<infos>
+  <exercises id="1">
+      <subject>1.下列哪个选项属于一个网站（）。</subject>
+      <a>百度APP</a>
+      <b>腾讯网</b>
+      <c>谷歌浏览器</c>
+      <d>Eclipse</d>
+      <answer>2</answer>
+  </exercises>
+  <exercises id="2">
+      <subject>2.个人博客的英文简称（）。</subject>
+      <a>Eclipse</a>
+      <b>SDK</b>
+      <c>SDK Manager.exe</c>
+      <d>blog</d>
+      <answer>4</answer>
+  </exercises>
+  <exercises id="3">
+      <subject>3.CMS系统属于什么类型的网站系统（）。</subject>
+      <a>纯静态</a>
+      <b>纯动态</b>
+      <c>伪静态</c>
+      <d>以上都不对</d>
+      <answer>2</answer>
+  </exercises>
+  <exercises id="4">
+      <subject>4.个人博客与网站的关系（）。</subject>
+      <a>博客属于网站</a>
+      <b>网站属于博客</b>
+      <c>静态网站属于博客</c>
+      <d>静态博客属于网站</d>
+      <answer>1</answer>
+  </exercises>
+  <exercises id="5">
+      <subject>5.动态博客有哪些功能（）。</subject>
+      <a>发布文章</a>
+      <b>留言评论</b>
+      <c>后台管理</c>
+      <d>以上都对</d>
+      <answer>4</answer>
+  </exercises>
+</infos>

@@ -1,0 +1,143 @@
+
+[
+ {
+  "chapterId": 1,
+  "videoId": "1",
+  "title": "第1章 博客（网站）简介",
+  "secondTitle": "什么是博客",
+  "videoPath": "video11.mp4"
+ },
+ {
+  "chapterId": 1,
+  "videoId": "2",
+  "title": "第1章 博客（网站）简介",
+  "secondTitle": "网站与博客的关系",
+  "videoPath": "beyond.mp4"
+ },
+ {
+  "chapterId": 2,
+  "videoId": "1",
+  "title": "第2章 Linux系统简介",
+  "secondTitle": "认识Linux",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 2,
+  "videoId": "2",
+  "title": "第2章 Linux系统简介",
+  "secondTitle": "CentOS 7简单操作",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 3,
+  "videoId": "1",
+  "title": "第3章  WordPress简介",
+  "secondTitle": "动态博客系统",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 3,
+  "videoId": "2",
+  "title": "第3章 WordPress简介",
+  "secondTitle": "WordPress系统",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 4,
+  "videoId": "1",
+  "title": "第4章 安装MySQL数据库",
+  "secondTitle": "MySQL数据库简介",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 4,
+  "videoId": "2",
+  "title": "第4章 安装MySQL数据库",
+  "secondTitle": "安装MySQL数据库",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 5,
+  "videoId": "1",
+  "title": "第5章 数据存储服务器",
+  "secondTitle": "常见的服务器",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 5,
+  "videoId": "2",
+  "title": "第5章 数据存储服务器",
+  "secondTitle": "Nginx的安装",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 6,
+  "videoId": "1",
+  "title": "第6章 安装PHP环境",
+  "secondTitle": "PHP语法简介",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 6,
+  "videoId": "2",
+  "title": "第6章 安装PHP环境",
+  "secondTitle": "安装PHP",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 7,
+  "videoId": "1",
+  "title": "第7章 云服务器的购买",
+  "secondTitle": "购买云服务器",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 7,
+  "videoId": "2",
+  "title": "第7章 云服务器的购买",
+  "secondTitle": "云服务器的简单配置",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 8,
+  "videoId": "1",
+  "title": "第8章 域名购买及备案",
+  "secondTitle": "购买域名",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 8,
+  "videoId": "2",
+  "title": "第8章 域名购买及备案",
+  "secondTitle": "域名备案",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 9,
+  "videoId": "1",
+  "title": "第9章 安装WordPress",
+  "secondTitle": "安装前准备",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 9,
+  "videoId": "2",
+  "title": "第9章 安装WordPress",
+  "secondTitle": "安装WordPress",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 10,
+  "videoId": "1",
+  "title": "第10章 WordPress简单设置",
+  "secondTitle": "更换博客主题",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 10,
+  "videoId": "2",
+  "title": "第10章 WordPress简单设置",
+  "secondTitle": "博客基本布局设置",
+  "videoPath": ""
+ }
+]

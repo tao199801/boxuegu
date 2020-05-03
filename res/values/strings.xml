@@ -1,0 +1,4 @@
+<!-- app的名称 -->
+<resources>
+    <string name="app_name">WordPress</string>
+</resources>
